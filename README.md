@@ -2,7 +2,7 @@
 
 **Effective Date:** November 12, 2026  
 **Developer:** MennyMade  
-**Application ID:** `com.foolsdecree.roguelike`  
+**Application ID:** `com.mennymade.foolsdecree`  
 
 ---
 
